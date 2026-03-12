@@ -1,6 +1,6 @@
 # Traffic Sign Recognition using Convolutional Neural Networks
 
-This project was completed as part of the **Neuronske Mreže** class at the Faculty of Sciences, University of Novi Sad in the second year of my studies. The project uses a convolutional neural network (CNN) to recognize different traffic signs. The model is trained on a dataset of images and evaluated on a test set.
+This project was completed as part of the **Neural Networks** class at the Faculty of Sciences, University of Novi Sad in the second year of my studies. The project uses a convolutional neural network (CNN) to recognize different traffic signs. The model is trained on a dataset of images and evaluated on a test set.
 
 ## Dataset
 
